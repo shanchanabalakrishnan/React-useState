@@ -1,0 +1,9 @@
+.container {
+  text-align: center;
+  padding: 5%;
+  background-color: cadetblue;
+}
+button {
+  padding: 10px;
+  margin: 4px 2px;
+}
